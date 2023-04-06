@@ -7,7 +7,7 @@ This is a pure PHP port of an existing JS code from Karthik Tharavaad.
 
 Requirements
 ------------
-PHP5 with GD
+PHP5 - PHP 8.2 with GD
 
 License
 -------
